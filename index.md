@@ -1,3 +1,3 @@
 ---
-title: Jonathan Brugh's Portfolio!
+title: Jonathan Brugh's Portfolio
 ---
