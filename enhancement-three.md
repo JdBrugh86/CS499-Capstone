@@ -9,7 +9,7 @@ permalink: /enhancement-three/
 <div markdown="1">
 <span class="outcome-tag">Databases</span>
 <span class="outcome-tag">Security</span>
-<span class="outcome-tag">Software Engineering</span>
+<span class="outcome-tag">Software Design &amp; Engineering</span>
 </div>
 
 Enhancement Three is a fundamentally different kind of change from the first two. Where Enhancement One hardened the console program and Enhancement Two corrected the binary search tree itself, in both versions the course catalog still lived and died with the process, every course existed only in memory, and closing the program erased it. Enhancement Three removes the BST entirely and replaces it with a MongoDB-backed `CourseRepository` class built on the official `mongocxx` driver, so the catalog is now a persistent collection that exists independently of any single run of the program.
