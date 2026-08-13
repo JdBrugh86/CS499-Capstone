@@ -55,6 +55,14 @@ a {
   border-top: 4px solid $amber;
   border-bottom: none;
   min-height: 64px;
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 8px;
+  }
 }
 
 .site-title,
@@ -63,14 +71,32 @@ a {
   font-weight: 700;
   font-size: 20px;
   letter-spacing: 0.03em;
+  float: none;
+  line-height: 64px;
+  margin-bottom: 0;
 }
 
 .site-nav {
+  float: none;
+  line-height: normal;
+
+  @media screen and (min-width: 601px) {
+    .trigger {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+  }
+
   .page-link {
     color: $steel-light;
     font-weight: 500;
-    margin-left: 24px;
+    white-space: nowrap;
     position: relative;
+
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
 
     &:hover {
       color: $amber-bright;
