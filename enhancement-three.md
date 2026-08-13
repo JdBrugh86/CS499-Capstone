@@ -27,7 +27,7 @@ Enhancement Three is a fundamentally different kind of change from the first two
     <span class="file-label">Enhancement Narrative</span>
     <span class="file-desc">The full write-up of what changed and why.</span>
     <br>
-    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_Three%20-%20Databases/jBrugh_Enhancement_Three_Narrative.docx">jBrugh_Enhancement_Three_Narrative.docx</a>
+    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_Three%20-%20Databases/jBrugh_Enhancement_Three_Narrative.pdf">jBrugh_Enhancement_Three_Narrative.pdf</a>
   </li>
   <li>
     <span class="file-label">README</span>
