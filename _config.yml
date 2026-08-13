@@ -1,0 +1,20 @@
+theme: minima
+url: "https://jdbrugh86.github.io"
+baseurl: "/Jonathan-Brugh-ePortfolio"
+title: Jonathan Brugh | CS-499 ePortfolio
+author: Jonathan Brugh
+description: >-
+  CS-499 Computer Science Capstone ePortfolio — code review, enhancements,
+  and professional self-assessment for Jonathan Brugh.
+
+header_pages:
+  - self-assessment.md
+  - code-review.md
+  - enhancement-one.md
+  - enhancement-two.md
+  - enhancement-three.md
+
+minima:
+  skin: classic
+
+repo_url: https://github.com/JdBrugh86/CS-499_Capstone
