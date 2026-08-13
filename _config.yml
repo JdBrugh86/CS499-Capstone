@@ -14,7 +14,4 @@ header_pages:
   - enhancement-two.md
   - enhancement-three.md
 
-minima:
-  skin: classic
-
 repo_url: https://github.com/JdBrugh86/CS-499_Capstone
