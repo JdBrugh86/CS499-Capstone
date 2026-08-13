@@ -27,7 +27,7 @@ Enhancement One keeps the original artifact's core approach, a binary search tre
     <span class="file-label">Enhancement Narrative</span>
     <span class="file-desc">The full write-up of what changed and why.</span>
     <br>
-    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_One%20-%20Software_Design_and_Engineering/jBrugh_Enhancement_One_Narrative.docx">jBrugh_Enhancement_One_Narrative.docx</a>
+    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_One%20-%20Software_Design_and_Engineering/jBrugh_Enhancement_One_Narrative.pdf">jBrugh_Enhancement_One_Narrative.docx</a>
   </li>
   <li>
     <span class="file-label">README</span>
