@@ -7,11 +7,11 @@ permalink: /self-assessment/
 # Professional Self-Assessment
 
 <div markdown="1">
-<span class="outcome-tag">Collaboration</span>
-<span class="outcome-tag">Communication</span>
-<span class="outcome-tag">Algorithms &amp; Data Structures</span>
-<span class="outcome-tag">Software Engineering</span>
-<span class="outcome-tag">Security</span>
+<span class="outcome-tag">| Collaboration | </span>
+<span class="outcome-tag">Communication | </span>
+<span class="outcome-tag">Algorithms &amp; Data Structures | </span>
+<span class="outcome-tag">Software Design &amp; Engineering | </span>
+<span class="outcome-tag">Security |</span>
 </div>
 
 ## Introduction
