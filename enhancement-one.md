@@ -7,7 +7,7 @@ permalink: /enhancement-one/
 # Enhancement One — Software Design and Engineering
 
 <div markdown="1">
-<span class="outcome-tag">Software Engineering</span>
+<span class="outcome-tag">Software Design &amp; Engineering</span>
 <span class="outcome-tag">Communication</span>
 <span class="outcome-tag">Security</span>
 </div>
