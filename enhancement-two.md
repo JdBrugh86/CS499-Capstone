@@ -26,7 +26,7 @@ Where Enhancement One hardened the program around the binary search tree, Enhanc
     <span class="file-label">Enhancement Narrative</span>
     <span class="file-desc">The full write-up of what changed and why.</span>
     <br>
-    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_Two%20-%20Algorithms_and_Data_Structure/jBrugh_Enhancement_Two_Narrative.pdf">jBrugh_Enhancement_Two_Narrative.docx</a>
+    <a href="https://github.com/JdBrugh86/CS-499_Capstone/blob/main/Enhancement_Two%20-%20Algorithms_and_Data_Structure/jBrugh_Enhancement_Two_Narrative.pdf">jBrugh_Enhancement_Two_Narrative.pdf</a>
   </li>
   <li>
     <span class="file-label">README</span>
